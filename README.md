@@ -16,7 +16,7 @@ Using the patterns you find in the train.csv data, predict whether the other 418
 First project developed on the Udacity platform in the Data Scientist Nanodegree program, and also the first challenge proposed on the Kaggle platform.
 
 ## Libraries required
-pandas (data manipulation and analysis), scikit-learn (machine learning library) and seaborn and matplotlib (data visualization)
+pandas (data manipulation and analysis), scikit-learn (machine learning library), seaborn and matplotlib (data visualization)
 
 ## Summary of Results
 - accuracy of 87%
